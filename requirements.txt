@@ -1,4 +1,12 @@
-numpy 
+numpy
 pandas
 matplotlib
-scipy 
+seaborn
+scikit-learn
+tensorflow
+keras
+scipy
+pywavelets
+Pillow
+requests
+tqdm
